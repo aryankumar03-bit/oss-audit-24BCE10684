@@ -2,7 +2,7 @@
 # Script 1: System Identity Report
 # Author: [Your Name] | Course: Open Source Software
 # --- Variables ---
-STUDENT_NAME="[Insert Your Name Here]" # Fill in your name
+STUDENT_NAME="[Aryan Kumar]" # Fill in your name
 SOFTWARE_CHOICE="Python" # Chosen software
 
 # --- System info ---
