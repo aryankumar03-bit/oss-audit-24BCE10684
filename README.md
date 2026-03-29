@@ -1,7 +1,7 @@
 # Open Source Software Audit Project
 
-**Student Name:** [Insert Your Name]  
-**Roll Number:** [Insert Your Roll Number]  
+**Student Name:** [Aryan Kumar]  
+**Roll Number:** [24BCE10684]  
 **Chosen Software:** Python
 
 ## Project Overview
